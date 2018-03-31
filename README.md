@@ -1,5 +1,7 @@
 
 # afrikaans-bad-words
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/tiaanduplessis/afrikaans-bad-words.svg)](https://greenkeeper.io/)
 [![package version](https://img.shields.io/npm/v/afrikaans-bad-words.svg?style=flat-square)](https://npmjs.org/package/afrikaans-bad-words)
 [![package downloads](https://img.shields.io/npm/dm/afrikaans-bad-words.svg?style=flat-square)](https://npmjs.org/package/afrikaans-bad-words)
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
