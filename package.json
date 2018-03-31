@@ -1,0 +1,22 @@
+{
+  "name": "afrikaans-bad-words",
+  "version": "1.0.0",
+  "description": "A list of bad (profanity) Afrikaans words",
+  "main": "index.js",
+  "repository": "https://github.com/tiaanduplessis/afrikaans-bad-words.git",
+  "author": "Tiaan du Plessis",
+  "license": "MIT",
+  "scripts": {
+    "lint": "standard --fix",
+    "test": "npm run lint && jest"
+  },
+  "devDependencies": {
+    "jest": "^22.4.3",
+    "standard": "^11.0.1"
+  },
+  "standard": {
+    "env": {
+      "jest": true
+    }
+  }
+}
